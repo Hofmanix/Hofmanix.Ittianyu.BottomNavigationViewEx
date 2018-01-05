@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Hofmanix.Ittianyu.BottomNavigationViewEx</id>
+    <version>1.2.4</version>
+    <title>BottomNavigationViewEx</title>
+    <authors>Ittianyu, Hofmanix</authors>
+    <owners>Ittianyu, Hofmanix</owners>
+    <licenseUrl>https://github.com/ittianyu/BottomNavigationViewEx/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/Hofmanix/Hofmanix.Ittianyu.BottomNavigationViewEx</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin wrapper for BottomNavigationViewEx plugin created by Ittianyu</description>
+    <copyright>Copyright 2018</copyright>
+    <tags>android, ittianyu, bottomnavigationview, bottomnavigationviewex, xamarin</tags>
+  </metadata>
+</package>

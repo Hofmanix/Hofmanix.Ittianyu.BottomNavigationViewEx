@@ -1,0 +1,6 @@
+Binding for:
+com.github.ittianyu:BottomNavigationViewEx:1.2.4
+
+Dependencies:
+
+BottomNavigationViewEx-1.2.4.aar,    Path=C:\Users\hofmanix\.gradle\caches\modules-2\files-2.1\com.github.ittianyu\BottomNavigationViewEx\1.2.4\eaddb9fd45ca38343faae8dd27ced068edc628b0\BottomNavigationViewEx-1.2.4.aar
