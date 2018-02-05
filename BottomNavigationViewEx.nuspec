@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Hofmanix.Ittianyu.BottomNavigationViewEx</id>
-    <version>1.2.4</version>
+    <version>1.2.4.2</version>
     <title>BottomNavigationViewEx</title>
     <authors>Ittianyu, Hofmanix</authors>
     <owners>Ittianyu, Hofmanix</owners>
@@ -12,5 +12,11 @@
     <description>Xamarin wrapper for BottomNavigationViewEx plugin created by Ittianyu</description>
     <copyright>Copyright 2018</copyright>
     <tags>android, ittianyu, bottomnavigationview, bottomnavigationviewex, xamarin</tags>
+    <dependencies>
+      <dependency id="Xamarin.Android.Support.Design" version="26.1.0.1"/>
+    </dependencies>
   </metadata>
+  <files>
+    <file src="bin\Release\BottomNavigationViewEx.*" target="lib\MonoAndroid10" />    
+  </files>
 </package>
